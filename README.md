@@ -6,23 +6,23 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 
 ---
 
-### 🛠️ Tech I work with
-- ☁️ Cloud: AWS, GCP , Azure
-- 🚢 Containers & Orchestration: Docker, Kubernetes, Helm , Karpenter , Istio
-- 🔁 CI/CD: Gitlab , Jenkins, GitHub Actions, Argo CD
-- 🧱 IaC: Terraform, Ansible  
-- 📊 Observability: Prometheus, Grafana, ELK , Loki
+### Tech I work with
+- Cloud: AWS, GCP , Azure
+- Containers & Orchestration: Docker, Kubernetes, Helm , Karpenter , Istio
+- CI/CD: Gitlab , Jenkins, GitHub Actions, Argo CD
+- IaC: Terraform, Ansible  
+- Observability: Prometheus, Grafana, ELK , Loki
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Goodbye Ingress, Hello Gateway API: A Practical Guide to Modern Kubernetes Traffic Management for…](https://medium.com/@shashikirandc1315/goodbye-ingress-hello-gateway-api-a-practical-guide-to-modern-kubernetes-traffic-management-for-0836fd2d294d?source=rss-062909803eaf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 - 💼 LinkedIn: https://linkedin.com/in/shashikiran-danammanavar-6914b6135
 - 🧑‍💻 GitHub: https://github.com/shashi0396
 
