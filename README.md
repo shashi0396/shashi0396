@@ -1,17 +1,17 @@
-## Hi there 👋 I'm Shashikiran
+## Hi there 👋,
 
-Cloud & DevOps Engineer with hands-on experience building, automating, and operating production systems across **AWS, Kubernetes, CI/CD, and Platform Engineering**.
+I'm Shashikiran , a Cloud & DevOps Engineer with hands-on experience building, automating, and operating production systems across **AWS, Kubernetes, CI/CD, and Platform Engineering**.
 
 I write about **real-world DevOps problems**, lessons from production, and practical cloud-native patterns , learning in public and sharing what actually works.
 
 ---
 
 ### 🛠️ Tech I work with
-- ☁️ Cloud: AWS, GCP  
-- 🚢 Containers & Orchestration: Docker, Kubernetes, Helm  
-- 🔁 CI/CD: Gitlab , Jenkins, GitHub Actions, Argo CD  
+- ☁️ Cloud: AWS, GCP , Azure
+- 🚢 Containers & Orchestration: Docker, Kubernetes, Helm , Karpenter , Istio
+- 🔁 CI/CD: Gitlab , Jenkins, GitHub Actions, Argo CD
 - 🧱 IaC: Terraform, Ansible  
-- 📊 Observability: Prometheus, Grafana, ELK  
+- 📊 Observability: Prometheus, Grafana, ELK , Loki
 
 ---
 
