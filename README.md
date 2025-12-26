@@ -27,3 +27,6 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 - **GitHub:** https://github.com/shashi0396
 
 🔭 Currently focused on: **Kubernetes Security , ML model Serving through k8s and MLOps**.
+
+![Profile Views](https://komarev.com/ghpvc/?username=shashi0396&label=Profile%20Views)
+
