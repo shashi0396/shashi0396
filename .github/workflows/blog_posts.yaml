@@ -6,7 +6,7 @@ on:
 
 jobs:
   update_readme:
-    runs-on: ubuntu_latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
