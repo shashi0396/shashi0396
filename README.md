@@ -15,7 +15,7 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 
 ---
 
-## Latest Blog Posts
+## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Goodbye Ingress, Hello Gateway API: A Practical Guide to Modern Kubernetes Traffic Management for…](https://medium.com/@shashikirandc1315/goodbye-ingress-hello-gateway-api-a-practical-guide-to-modern-kubernetes-traffic-management-for-0836fd2d294d?source=rss-062909803eaf------2)
 <!-- BLOG-POST-LIST:END -->
