@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Shashikiran
 
-<!--
-**shashi0396/shashi0396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer with hands-on experience building, automating, and operating production systems across **AWS, Kubernetes, CI/CD, and Platform Engineering**.
 
-Here are some ideas to get you started:
+I write about **real-world DevOps problems**, lessons from production, and practical cloud-native patterns , learning in public and sharing what actually works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech I work with
+- ☁️ Cloud: AWS, GCP  
+- 🚢 Containers & Orchestration: Docker, Kubernetes, Helm  
+- 🔁 CI/CD: Gitlab , Jenkins, GitHub Actions, Argo CD  
+- 🧱 IaC: Terraform, Ansible  
+- 📊 Observability: Prometheus, Grafana, ELK  
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📫 Connect with me
+- 💼 LinkedIn: https://linkedin.com/in/shashikiran-danammanavar-6914b6135
+- 🧑‍💻 GitHub: https://github.com/shashi0396
+
+🔭 Currently focused on: Kubernetes Security , ML model Serving through k8s and MLOps.
