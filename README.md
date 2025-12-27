@@ -24,7 +24,7 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 
 ### Connect with me
 - **LinkedIn:** https://linkedin.com/in/shashikiran-danammanavar-6914b6135
-- **Meduim:** https://medium.com/@shashikirandc1315
+- **Medium:** https://medium.com/@shashikirandc1315
 - **Gmail:** shashikirandc1315@gmail.com
 
 🔭 Currently focused on: **Kubernetes Security , ML model Serving through k8s and MLOps**.
