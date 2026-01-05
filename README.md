@@ -23,6 +23,9 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 <!-- BLOG-POST-LIST:END -->
 
 ---
+## Certifications
+- **AWS DevOps:** https://www.credly.com/badges/6dccf94c-502d-4f48-947b-546577124f96
+---
 
 ### Connect with me
 - **LinkedIn:** https://linkedin.com/in/shashikiran-danammanavar-6914b6135
