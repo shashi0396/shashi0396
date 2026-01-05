@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-I'm Shashikiran , a Cloud & DevOps Engineer with hands-on experience across **FinTech , Maritime SaaS** in building, automating, and operating production systems across **AWS, Kubernetes, CI/CD, and Platform Engineering**.
+I'm Shashikiran , an **AWS Certified Cloud & DevOps Professional** with hands-on experience across **FinTech , Maritime SaaS** in building, automating, and operating production systems across **AWS, Kubernetes, CI/CD, and Platform Engineering**.
 
 I write about **real-world DevOps problems**, lessons from production, and practical cloud-native patterns , learning in public and sharing what actually works.
 
@@ -8,10 +8,12 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 
 ### Tech I work with
 - **Cloud:** AWS, GCP , Azure
-- **Containers & Orchestration:** Docker, Kubernetes, Helm , Karpenter , Istio
-- **CI/CD:** Gitlab , Jenkins, GitHub Actions, Argo CD
-- **IaC:** Terraform, Ansible  
-- **Observability:** Prometheus, Grafana, ELK , Loki
+- **Containers & Orchestration:** Docker, Kubernetes, Helm , Kustomize , Karpenter , Istio
+- **K8s Security & Governance:** OPA Gatekeeper, Kyverno
+- **Version control & CI/CD:** Git, Bitbucket , Gitlab , Jenkins, GitHub Actions, Argo-CD
+- **IaC:** Terraform, Packer , Ansible , Cloudformation
+- **Programming Languages & Platforms:** Python , SQL , Linux
+- **Observability:** Prometheus, Grafana, ELK , Loki , Datadog , Coralogix , Jaeger
 
 ---
 
