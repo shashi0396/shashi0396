@@ -11,7 +11,7 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 - **Containers & Orchestration:** Docker, Kubernetes, Helm , Kustomize , Karpenter , Istio
 - **K8s Security & Governance:** OPA Gatekeeper, Kyverno
 - **Version control & CI/CD:** Git, Bitbucket , Gitlab , Jenkins, GitHub Actions, Argo-CD
-- **IaC:** Terraform, Packer , Ansible , Cloudformation
+- **IaC:** Terraform, Packer , Ansible , Cloudformation , Terragrunt
 - **Programming Languages & Platforms:** Python , SQL , Linux
 - **Observability:** Prometheus, Grafana, ELK , Loki , Datadog , Coralogix , Jaeger
 
