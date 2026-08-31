@@ -24,7 +24,9 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 
 ---
 ## Certifications
-- **AWS DevOps:** https://www.credly.com/badges/6dccf94c-502d-4f48-947b-546577124f96
+- **AWS DevOps Professional:** https://www.credly.com/badges/6dccf94c-502d-4f48-947b-546577124f96
+- **GCP Cloud Architect Professional:** https://www.credly.com/badges/3112f2bb-3926-4c72-a6fe-5d8cfcf87fb4
+- **Claude Certified Architect:** https://www.credly.com/badges/38fac9bc-54d4-4478-93be-18e1f3f0d588
 ---
 
 ### Connect with me
@@ -32,7 +34,7 @@ I write about **real-world DevOps problems**, lessons from production, and pract
 - **Medium:** https://medium.com/@shashikirandc1315
 - **Gmail:** shashikirandc1315@gmail.com
 
-🔭 Currently focused on: **Kubernetes Security , ML model Serving through k8s and MLOps**.
+🔭 Currently focused on: **Kubernetes Security , ML model Serving through k8s , AIOps and MLOps**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shashi0396&label=Profile%20Views)
 
